@@ -1,6 +1,8 @@
-# Copyright (c) 2014 Bertrand Néron. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
+##########################################################################
+# Copyright (c) 2015 Bertrand Néron. All rights reserved.                #
+# Use of this source code is governed by a BSD-style license that can be #
+# found in the LICENSE file.                                             #
+##########################################################################
 
 __author__ = 'bertrand Néron'
 
